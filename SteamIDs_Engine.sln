@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamIDs_Engine", "SteamIDs_Converter\SteamIDs_Engine.csproj", "{61D0591D-DE14-4F53-9403-0244033CCAFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example Usage Forms", "Example Usage Forms\Example Usage Forms.csproj", "{15CC49A5-C87D-46F7-BB6C-274E084775CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61D0591D-DE14-4F53-9403-0244033CCAFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D0591D-DE14-4F53-9403-0244033CCAFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D0591D-DE14-4F53-9403-0244033CCAFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D0591D-DE14-4F53-9403-0244033CCAFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15CC49A5-C87D-46F7-BB6C-274E084775CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15CC49A5-C87D-46F7-BB6C-274E084775CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15CC49A5-C87D-46F7-BB6C-274E084775CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15CC49A5-C87D-46F7-BB6C-274E084775CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {041A23B6-7C68-446D-AA22-1E0767758C9E}
+	EndGlobalSection
+EndGlobal
