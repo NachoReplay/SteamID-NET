@@ -22,4 +22,4 @@ STEAM_0:1:27046640
 32 -> [U:1:54093281]
 
 
-[Pre-compiled binarys and libs.](https://github.com/NachoReplay/SteamID-NET-Engine/releases)
+[Pre-compiled binarys and libs.](https://github.com/NachoReplay/SteamID-NET/releases)
